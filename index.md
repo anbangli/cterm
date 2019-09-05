@@ -1,6 +1,15 @@
 ## Welcome to GitHub Pages
 
-CTerm ——聪明的终端
+CTerm (Clever Terminal) 不仅可以作为普通 Telnet 客户软件用于 Telnet 站点的登录，更是针对国内BBS的特点设计的一个专用上站软件。 它在运行中对用户和服务器之间的信息进行了分析，知道用户在 BBS 上的当前状态(主选单/讨论区列表/用户列表/文章 列表/编辑状态)，从而提供相应的服务。
+
+当前最新版本是 3.6.4 。
+
+下载本软件：请前往 [CTerm 项目主页](https://github.com/anbangli/cterm)，在文件列表中找到 CTerm-3.3.52.exe，然后点击该文件，开始下载。
+
+
+
+--------------------
+
 You can use the [editor on GitHub](https://github.com/anbangli/CTerm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
