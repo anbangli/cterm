@@ -4,7 +4,7 @@ CTerm (Clever Terminal) 不仅可以作为普通 Telnet 客户软件用于 Telne
 
 当前最新版本是 3.6.4 。
 
-下载方法：请前往 [CTerm 项目发布页面](https://github.com/anbangli/cterm/release)，在文件列表中选择所需的版本（自解压安装版 或 压缩包），然后点击相应的文件，即可开始下载。
+下载方法：请前往 [CTerm 项目发布页面](https://github.com/anbangli/cterm/releases)，在文件列表中选择所需的版本（自解压安装版 或 压缩包），然后点击相应的文件，即可开始下载。
 
 
 
